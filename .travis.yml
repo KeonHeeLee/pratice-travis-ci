@@ -12,6 +12,10 @@ install :
 script : 
  - cd main && python3 test.py
 
+after_success:
+  coveralls
+
+# safelist
 branches:
   only:
   - master
