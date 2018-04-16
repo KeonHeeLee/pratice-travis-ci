@@ -2,7 +2,7 @@
 
 This repo only use to test travis-ci. <br><br>
 
-## Result
+## Test Result
 
 |STATUS | travis-ci image |
 |-------|-----------------|
