@@ -22,7 +22,7 @@ branches:
   only:
   - master
   
-notifications:
-  email:
-    recipients:
-      - beta1360@naver.com
+#notifications:
+#  email:
+#    recipients:
+#      - beta1360@naver.com
