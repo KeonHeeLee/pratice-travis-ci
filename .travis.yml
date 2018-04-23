@@ -7,8 +7,7 @@ install :
   - pip install coveralls
   
 script : 
- - cd main 
- - python3 test.py --with-coverage
+ - python3 main/test.py --with-coverage
 
 after_success:
   coveralls
