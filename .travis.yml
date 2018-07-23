@@ -10,7 +10,7 @@ script :
  - coverage run --source=mypkg main/test.py test
 
 after_success:
-  coveralls
+ - coveralls
 
 # safelist
 branches:
